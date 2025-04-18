@@ -1,4 +1,4 @@
-# Projects-_NLP
+# Projects_NLP
 Projects related to Natural Language Processing (NLP) Course
 1. **Project Name**: Replace `Project Name` with the actual name of your project.
 2. **Team**: List the team members and their roles.
